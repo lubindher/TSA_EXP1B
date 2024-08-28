@@ -2,7 +2,7 @@
 
 ## Developed by : LUBINDHER S
 ## Register number : 212222240056
-## Date: 23/08/24
+## Date: 
 
 ## AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
